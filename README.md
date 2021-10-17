@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![cool-doge](https://user-images.githubusercontent.com/25584861/137609085-fde1037d-74bf-46ac-8464-49d93ec8706f.gif), I'm Brains</h1>
+<h1 align="center">Hello👋, I'm Brains 🧠</h1>
 <h3 align="center">A passionate fullstack developer from Los Angeles</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -10,6 +10,10 @@
 - 🤝 I’m looking for help with **Machine Learning, Data Mining**
 
 - 💬 Ask me about **React, Rust, Node.js, Python,**
+
+![d8e251f6-878a-4c14-8d09-6e562d25](https://user-images.githubusercontent.com/25584861/137609223-39b9e129-d79a-463a-a0a9-4b67efef0b87.gif)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
