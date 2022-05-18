@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Lagrange DeFi built on Solana](https://github.com/Lagrange-fi)
+- 🔭 I’m currently working on [Monkai | MULTI-CHAIN MINT](https://monkainft.com)
 
 - 👯 I’m looking to collaborate on **NFT On-demand Minting Marketplaces**
 
