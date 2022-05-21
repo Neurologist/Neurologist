@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Rust, Node.js, Python,** 
 
-- 💬 Email me **brains@nftbrains.com** 
+- 💬 Telegram me **@mainframebrain** 
 
 ![4giphy](https://user-images.githubusercontent.com/25584861/137609321-0e4265a3-d17d-45f4-ba20-c23ce8bceb5c.gif)
 
