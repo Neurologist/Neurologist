@@ -1,11 +1,8 @@
 <h1 align="center">Hello👋, I'm Brains#0001 🧠</h1>
-<h3 align="center">A passionate fullstack developer from Los Angeles</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Monkai | MULTI-CHAIN MINT](https://monkainft.com)
-
-- 👯 I’m looking to collaborate on **NFT On-demand Minting Marketplaces**
 
 - 🤝 I’m looking for help with **Machine Learning, Data Mining**
 
