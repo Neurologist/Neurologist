@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Brains#0001 🧠</h1>
+<h1 align="center">Hello👋, Neurologist here 🧠</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Rust, Node.js, Python,** 
 
-- 💬 Telegram me **@mainframebrain** 
+- 💬 Telegram me **@gummiberu** 
 
 ![4giphy](https://user-images.githubusercontent.com/25584861/137609321-0e4265a3-d17d-45f4-ba20-c23ce8bceb5c.gif)
 
