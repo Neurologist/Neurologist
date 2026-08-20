@@ -6,14 +6,13 @@
 
 **AI/ML Engineer · Systems Architect · Los Angeles**
 
-[![Twitter](https://img.shields.io/badge/@CryptCanvasArt-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/CryptCanvasArt)
+[![X](https://img.shields.io/badge/@CryptCanvasArt-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/CryptCanvasArt)
+&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/Neurologist-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Neurologist)
 
 </div>
 
 ---
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neurologist&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" width="320"/>
 
 ### `> whoami`
 
@@ -26,8 +25,6 @@ Currently focused on:
 - 🤖 **Multi-agent architectures** — AutoGen, LangChain orchestration
 - ⚡ **Edge AI** — Deploying models on constrained hardware (Pi, Jetson)
 
-<br clear="right"/>
-
 ---
 
 ### Tech Stack
@@ -37,16 +34,25 @@ Currently focused on:
 `Python` · `C++` · `Rust` · `TypeScript` · `CUDA`
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="36" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="36" height="36"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="36" height="36"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="36" height="36"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="36" height="36"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="36" height="36"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="36" height="36"/>
 </p>
 
 **ML/AI:** PyTorch · HuggingFace Transformers · ONNX · TensorRT · LangChain · vLLM  
@@ -77,11 +83,6 @@ Currently focused on:
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=neurologist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&count_private=true" width="420"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neurologist&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="420"/>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neurologist&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff" width="860"/>
 
