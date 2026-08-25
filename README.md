@@ -19,7 +19,7 @@
 ```console
 $ cat /proc/neurologist
 name        : Neurologist
-role        : AI/ML engineer · systems programmer · VFX artist
+role        : AI/ML engineer · systems programmer · VFX 
 arch        : x86_64 + CUDA + whatever the problem requires
 location    : Los Angeles, CA
 languages   : Python, C++, Rust, TypeScript, CUDA C
