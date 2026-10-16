@@ -97,7 +97,7 @@ ADDRESS RANGE        PERM   REGION
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neurologist&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0a500&area=true" width="880"/>
+
 
 </div>
 
